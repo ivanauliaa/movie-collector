@@ -10,8 +10,6 @@ Developed using HTML, CSS, JavaScript (all of them in vanilla)
 
 Credits: [OMDBAPI](https://omdbapi.com/)
 
-[GitHub Pages](https://ivanauliaa.github.io/movie-collector/)
-
 Home Page
 
 ![home page](https://images4.imagebam.com/8f/83/70/ME4LTJJ_o.jpg)
