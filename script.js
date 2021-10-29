@@ -14,7 +14,7 @@ const getData = () => {
 
             data.forEach(element => {
                 newElement += `
-                    <a href="detail.html?i=${element.imdbID}">
+                    <a href="./detail.html?i=${element.imdbID}">
                         <div class="card">
                             <div>
                                 <img src="${element.Poster}"
@@ -122,7 +122,7 @@ const searchData = () => {
 
                 data.forEach(element => {
                     newElement += `
-                        <a href="detail.html?i=${element.imdbID}">
+                        <a href="./detail.html?i=${element.imdbID}">
                             <div class="card">
                                 <div>
                                     <img src="${element.Poster}"
